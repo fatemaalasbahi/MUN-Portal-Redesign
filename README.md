@@ -1,5 +1,9 @@
 # Student Portal: Concept Redesign
 
+**Live demo:**
+https://mun-portal-redesign.vercel.app
+
+
 A working front-end redesign of a university student self-service portal, built from a usability evaluation.
 
 > **Unofficial student project.** This is a concept redesign made for an HCI course. It is **not affiliated with Memorial University**, it doesn't connect to any real university system, and all names, courses, grades and payments are made up.
